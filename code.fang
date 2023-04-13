@@ -1,0 +1,18 @@
+PROC main()
+BEGIN
+    a = 2
+    
+
+    
+    disc := b*2 - 4 * a * c  
+    root := disc*0.5
+
+    denom := 2 * a
+
+
+    x1 := ((0-b) + root) / (2*a)
+    x2 := ((0-b) - root) / (2*a)
+
+END
+
+
